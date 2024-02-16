@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "151525509519",
+    "project_id": "madceit",
+    "storage_bucket": "madceit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151525509519:android:116a57dc6e1f0531dde3fa",
+        "android_client_info": {
+          "package_name": "com.madgineers.madceit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151525509519-9hhs5dnktkus4jh4pmejjb8f1692lfn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madgineers.madceit",
+            "certificate_hash": "eaffaa305449ac04f5aac2afe9bf59daf4f3bd11"
+          }
+        },
+        {
+          "client_id": "151525509519-dpir76plv2eei63j696vuiu05pa17srv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madgineers.madceit",
+            "certificate_hash": "31e849c8ade8aad502189e35f2c47cba2b57a129"
+          }
+        },
+        {
+          "client_id": "151525509519-jkr8260c3nmaf9bs6se3dvogp3s9jtqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madgineers.madceit",
+            "certificate_hash": "6778c54d13f65fc9d532c83c04a48cd6e678555b"
+          }
+        },
+        {
+          "client_id": "151525509519-u8gcr7bu8gf44khm2uo7s7r19mpjpmn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8haLrPteMpVDySHOeLMItAN52J2l-aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151525509519-qdomknibtjhr6202khs73j74a1aflnuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
